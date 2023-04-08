@@ -8,3 +8,5 @@
 - Hero Section
 - Product Section
 - Footer
+- Register Form
+- Login Form
