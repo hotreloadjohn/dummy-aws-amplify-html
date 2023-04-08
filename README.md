@@ -4,5 +4,8 @@
 
 # TODO:
 
-- Navbar
+- Header (Navbar)
+- Hero Section
+- Product Section
+- Footer
 - something
